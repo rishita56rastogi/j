@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TrafficLight",
+            "request": "launch",
+            "mainClass": "TrafficLight",
+            "projectName": "java_988dc6d8"
+        },
+        {
+            "type": "java",
+            "name": "Game",
+            "request": "launch",
+            "mainClass": "Game",
+            "projectName": "java_988dc6d8"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "java_988dc6d8"
+        },
+        {
+            "type": "java",
+            "name": "Practiceset",
+            "request": "launch",
+            "mainClass": "Practiceset",
+            "projectName": "java_988dc6d8"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "java_988dc6d8"
+        },
+        {
+            "type": "java",
+            "name": "Methodsoverloading",
+            "request": "launch",
+            "mainClass": "Methodsoverloading",
+            "projectName": "java_988dc6d8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
